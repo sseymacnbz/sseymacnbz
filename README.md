@@ -10,6 +10,11 @@
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=sseymacnbz&show_icons=true&theme=radical)
 
 <!---
+<div style="float: left;">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sseymacnbz&hide_border=true&layout=compact&theme=onedark" align="left" />  
+</div>
+
+
 sseymacnbz/sseymacnbz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
